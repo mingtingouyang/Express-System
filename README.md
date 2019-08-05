@@ -1,5 +1,5 @@
 # Express-System
-使用 spring boot，基于 ssm 框架和 shiro 安全框架，开发的一个物流管理系统
+使用 spring boot，基于 ssm 框架和 shiro 安全框架，开发的一个物流管理系统。前端使用的是 H-ui 开源框架，运用了 Bootstrap table、zTree、PageHelper、jQuery validate 等插件。
 
 ## 特点
 1. 基于 spring boot、maven 构建；
