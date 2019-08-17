@@ -36,7 +36,7 @@
 使用前修改 application.properties 里的数据库的连接信息即可。可以通过 dataBase 目录下的 sql 文件创建所需要的表，数据库名字为 logistic_system。
 
 ## 测试体验
-物流管理系统部署在在 Linux 云服务器上，可用前往体验，可以添加数据，但请勿删除和修改任何数据。[访问链接](http://167.71.143.69:8080/logistic)
+物流管理系统部署在在 Linux 云服务器上，可用前往体验，可以添加数据，但请勿删除和修改任何数据。[访问链接](http://ozaaa.cn/logistic/)
 
 > username:admin
 >
