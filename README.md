@@ -1,4 +1,9 @@
 # Express-System
+[![GitHub issues](https://img.shields.io/github/issues/mingtingouyang/Express-System)](https://github.com/mingtingouyang/Express-System/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mingtingouyang/Express-System)](https://github.com/mingtingouyang/Express-System/network)
+[![GitHub stars](https://img.shields.io/github/stars/mingtingouyang/Express-System)](https://github.com/mingtingouyang/Express-System/stargazers)
+[![GitHub license](https://img.shields.io/github/license/mingtingouyang/Express-System)](https://github.com/mingtingouyang/Express-System/blob/master/LICENSE)
+
 - [介绍](#介绍)
 - [特点](#特点)
 - [细节介绍](#细节介绍)
